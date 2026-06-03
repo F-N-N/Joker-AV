@@ -1,0 +1,12 @@
+gTTS
+librosa
+matplotlib
+nltk
+pandas
+PyAudio
+pyttsx3
+seaborn
+simpleaudio
+spaCy
+SpeechRecognition
+tensorflow

@@ -1,2 +1,5 @@
-# Joker-AV
-Assistente Virtual para agendar tarefas/eventos por prompt escrito/falado, e com função de contar piadas.
+# Joker-AV (Assitente Virtual "Piadeiro")
+
+### Versões das Ferramentas Utilizadas:
+
+- **Python**: Versões 3.12;
